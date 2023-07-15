@@ -1,6 +1,6 @@
 export const MAIN_NET_NEMESIS_BLOCK_SYMBOL_TIME: number = 1615853185 * 1000;
-export const TEST_NET_NEMESIS_BLOCK_SYMBOL_TIME: number = 1637848847 * 1000;
-
+export const TEST_NET_NEMESIS_BLOCK_SYMBOL_TIME: number = 1667250467 * 1000;
+// 1667250467
 // timestamp
 export const getTimeStamp = (
   timestamp: number,
