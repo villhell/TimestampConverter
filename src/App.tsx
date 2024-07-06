@@ -88,9 +88,9 @@ function App() {
       </Grid>
       <Grid item xs={12} md={6} style={{ width: '40%' }}>
         <TextField
-          id="address"
-          name="address"
-          label="Address"
+          id="height"
+          name="height"
+          label="Height"
           variant="outlined"
           required
           fullWidth
